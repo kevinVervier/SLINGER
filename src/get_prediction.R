@@ -12,7 +12,7 @@ EXPR = NULL #will be a indiv x gene_expr matrix
 NAMES = NULL #list of gene names
 
 #read models
-models = read.delim('../model/AllSNPs-elasticNET.txt',header=TRUE)
+models = read.delim('../model/AllSNPs-elasticNet.txt',header=TRUE)
 for(gene in unique(models$gene)){
   #store names
   NAMES = c(NAMES,gene)
