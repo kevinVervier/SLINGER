@@ -1,1 +1,4 @@
 Exectuable functions
+
+* train_model.R: script used to obtain all the predictive models by fitting an Elastic-Net approach
+* get_prediction.R: script used to obtain gene expression predictions for a given genotype file
