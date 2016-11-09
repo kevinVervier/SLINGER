@@ -1,4 +1,4 @@
-# geno2expr-ML
+# SLINGER: Short and Long INteractions for Genotype to Expression Regression
 Work on large-scale ML for gene expression prediction based on genotype only.
 
 
