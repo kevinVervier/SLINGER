@@ -1,4 +1,4 @@
-# SLINGER: Short and Long INteractions for Genotype to Expression Regression
+# SLINGER: Short and Long-range INfluencers of Gene Expression Regulation
 Work on large-scale ML for gene expression prediction based on genotype only.
 
 
